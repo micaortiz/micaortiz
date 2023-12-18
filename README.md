@@ -1,5 +1,10 @@
+<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/) -->
+
+<img align="center" alt="GIF" height="190px" width="600px" src="./assets/Black & White Modern Product Launching Soon Video.gif" />
+
+
 ### Hi I'm Micaela 👋🏽
-<!-- logos de contacto  -->
+
 
 ###  About me 👀
 
@@ -12,8 +17,6 @@
 - 👯 I am looking to collaborate on Front-end or Back-end projects.
 
 - 💬 Ask me about anything, I'm happy to help.
-
-
 
 ### 🚀 My Tech Stack 
 <!-- ### 🛠 Technologies & Tools -->
@@ -31,29 +34,22 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+<!-- <a href="https://github.com/micaortiz/website"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=micaortiz&show_icons=true&hide=commits" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/micaortiz/website"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaortiz&layout=compact" /> -->
+<!-- </a> -->
 
 
+  
 ### 📫 How to Reach Me 
 
 <a href="mailto:mica.ayelenn984@gmail.com"><img alt="email" src="https://img.shields.io/badge/-mica.ayelenn984@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-<a href="https://www.linkedin.com/in/micaela-a-ortiz//"><img alt="linkedIn" src="https://img.shields.io/badge/Micaela  Ortiz-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/micaela-a-ortiz//"><img alt="linkedIn" src="https://img.shields.io/badge/Micaela Ayelen Ortiz-blue?style=flat&logo=linkedin"></a>
 
-    ✨ Explore and Explode with knowledge ✨
+                ✨ Explore and Explode with knowledge ✨
 
 ![](https://komarev.com/ghpvc/?username=micaortiz&color=79b8ff)
 
-<!--
-**micaortiz/micaortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
