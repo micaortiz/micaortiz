@@ -1,5 +1,6 @@
 ### Hi I'm Micaela 👋🏽
 <!-- logos de contacto  -->
+
 ###  About me 👀
 
 - 🌱 I am currently immersed in the exciting world of full stack development with a special focus on the back-end.
@@ -12,7 +13,7 @@
 
 - 💬 Ask me about anything, I'm happy to help.
 
-- 🎯 Explore and Explode with knowledge.
+
 
 ### 🚀 My Tech Stack 
 <!-- ### 🛠 Technologies & Tools -->
@@ -26,19 +27,19 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6) 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
+  ![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 
 ### 📫 How to Reach Me 
-<!-- Agregar
-- Linkedin
-- Gmail -->
-<!-- ![Gmail Badge](https://img.shields.io/badge/-mica.ayelenn984@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white) -->
 
 <a href="mailto:mica.ayelenn984@gmail.com"><img alt="email" src="https://img.shields.io/badge/-mica.ayelenn984@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/micaela-a-ortiz//"><img alt="linkedIn" src="https://img.shields.io/badge/Micaela  Ortiz-blue?style=flat&logo=linkedin"></a>
+
+    ✨ Explore and Explode with knowledge ✨
 
 ![](https://komarev.com/ghpvc/?username=micaortiz&color=79b8ff)
 
