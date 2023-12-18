@@ -1,5 +1,5 @@
 <img alt="GIF" 
-height="190" width="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnduYjkweXlsNDJuY3MwNDg3dHdnaWEzdGNzNWJyYmp6ZjZlcm92byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8GrizRICJEk3zJ4Lo/giphy-downsized-large.gif"/>
+height="195" width="830" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnduYjkweXlsNDJuY3MwNDg3dHdnaWEzdGNzNWJyYmp6ZjZlcm92byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8GrizRICJEk3zJ4Lo/giphy-downsized-large.gif"/>
 
 ### Hi I'm Micaela 👋🏽
 
