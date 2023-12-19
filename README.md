@@ -1,5 +1,6 @@
-<img alt="GIF" 
-height="195" width="830" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnduYjkweXlsNDJuY3MwNDg3dHdnaWEzdGNzNWJyYmp6ZjZlcm92byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8GrizRICJEk3zJ4Lo/giphy-downsized-large.gif"/>
+<p align="center">
+<img alt="GIF" height="190" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RtcmY1M3U3OTNld2x1dHg1cmJ3dDRhOWNkcWh0MzNlaGQxZDFwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mAteyJtpmR9Yq4X2xO/giphy-downsized-large.gif"/>
+</p>
 
 ### Hi I'm Micaela 👋🏽
 
@@ -36,5 +37,5 @@ height="195" width="830" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ
 <a href="https://www.linkedin.com/in/micaela-a-ortiz//"><img alt="linkedIn" src="https://img.shields.io/badge/Micaela Ayelen Ortiz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:mica.ayelenn984@gmail.com"><img alt="email" src="https://img.shields.io/badge/-mica.ayelenn984@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-#### ***✨ Explore and Explode with knowledge ✨***
+### ***✨ Explore and Explode with knowledge ✨***
 <!-- ![](https://komarev.com/ghpvc/?username=micaortiz&color=79b8ff) -->
