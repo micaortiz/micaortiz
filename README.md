@@ -4,7 +4,7 @@
 
 ## Hi I'm Micaela 👋🏽
 
-###  About me 👀
+### 👩🏽‍💻 About me 
 
 - 🌱 I am currently immersed in the exciting world of Full Stack development with a special focus on the Back-end.
 
