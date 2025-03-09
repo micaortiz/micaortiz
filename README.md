@@ -19,6 +19,7 @@
 ### 🚀 My Tech Stack 
 <!-- ### 🛠 Technologies & Tools -->
 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -36,6 +37,7 @@
 
 <a href="https://www.linkedin.com/in/micaela-a-ortiz//"><img alt="linkedIn" src="https://img.shields.io/badge/Micaela Ayelen Ortiz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:mica.ayelenn984@gmail.com"><img alt="email" src="https://img.shields.io/badge/-mica.ayelenn984@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="https://github.com/onmicaela"><img alt="GitHub Work" src="https://img.shields.io/badge/-GitHub Work-black?style=flat-square&logo=GitHub&logoColor=white"></a> 
 
 ### ***✨ Explore and Explode with knowledge ✨***
 <!-- ![](https://komarev.com/ghpvc/?username=micaortiz&color=79b8ff) -->
