@@ -19,7 +19,7 @@
 ### 🚀 My Tech Stack 
 <!-- ### 🛠 Technologies & Tools -->
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
